@@ -10,7 +10,7 @@ In the era of streaming services like Spotify, understanding user preferences an
 ### Steps followed 
 
 - Step 1 : Online dataset was doenloaded for the FY 2023.
-- Step 2: Load the .xl file into the Power BI platform.
+- Step 2: Load the .xlsl file into the Power BI platform.
 - Step 3 : Open power query editor & in view tab under Data preview section, check Spotidy Database.
 - Step 4 : It was observed that in none of the columns errors & empty values were present, hence started with DAX Query operarions.
 - Step 5 : Various DAX operations were performed and are as folows:
