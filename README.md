@@ -69,6 +69,8 @@ In the era of streaming services like Spotify, understanding user preferences an
 - Step 13 : Some icons were also aded to make it even more visually understanding to the viewer.
 - Step 14 : In order to get the song cover displayed when clicked on aspecific Streamed Song .
       For this we created a measure combining DAX operation and some HTML coding with the help of Chat GPT.
+
+
   Image html = 
         Var x =
         CALCULATE(
@@ -127,6 +129,9 @@ In the era of streaming services like Spotify, understanding user preferences an
   (d) Artists
   
 - Step 18 : A new slicer was inserted to visualise songs on the basis of Tracks and no of times they streamed with their cover url with conditional formating of top 3 and Energy level.
+
+  
+![Ss2](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/58ff33a1-0f51-4d94-920f-b51ea32df5f3)
 - Step 19 : For the dashboard to match with overall scheme of spotify, changed the theme of the report by advance formating and chosing colours for the colout pallete of spotify logo.
 - Step 20 - Lastly clear all slicers button was added to canvas inside the refresh icon the top righ corner.
 - 
