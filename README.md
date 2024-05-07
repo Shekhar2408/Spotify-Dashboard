@@ -61,9 +61,7 @@ In the era of streaming services like Spotify, understanding user preferences an
 - Step 6 :Lastly in order to analyse the tren of streamimg on monthly and daily basis, extermal tool named BRAVO was used to create Date table with al, the pre requisite details and was linked to date measure we created previously.
 - Step 7 : Firstly the size of the canvas adjusted from the format section.
 - Step 8 : The background of the report was created in Power Point and saved as picture.
-  
-   [SNAP 1]: ![bg](https://github.com/Shekhar2408/Credit-Card-Analysis/assets/167020556/535859ec-a216-45d2-baa1-74315db67072)
-  
+  -[SNAP 1]: ![bg](https://github.com/Shekhar2408/Credit-Card-Analysis/assets/167020556/535859ec-a216-45d2-baa1-74315db67072)
 - Step 9 : The picture was imported to Power BI and placed as canvas background.
 - Step 10 : For data visualization stacked Bar chart was taken representing Number of streams for al the Tracks.
 - Step 11 : Line Chart was added to the canvas for depicting the Released Date fo the Tracks Streamed.
