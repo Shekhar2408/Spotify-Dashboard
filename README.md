@@ -61,14 +61,19 @@ In the era of streaming services like Spotify, understanding user preferences an
 - Step 6 :Lastly in order to analyse the tren of streamimg on monthly and daily basis, extermal tool named BRAVO was used to create Date table with al, the pre requisite details and was linked to date measure we created previously.
 - Step 7 : Firstly the size of the canvas adjusted from the format section.
 - Step 8 : The background of the report was created in Power Point and saved as picture.
-  - [SNAP 1] : ![bg](https://github.com/Shekhar2408/Credit-Card-Analysis/assets/167020556/535859ec-a216-45d2-baa1-74315db67072)
+  
+  ![SNAP 1](https://github.com/Shekhar2408/Credit-Card-Analysis/assets/167020556/535859ec-a216-45d2-baa1-74315db67072)
+  
 - Step 9 : The picture was imported to Power BI and placed as canvas background.
 - Step 10 : For data visualization stacked Bar chart was taken representing Number of streams for al the Tracks.
 - Step 11 : Line Chart was added to the canvas for depicting the Released Date fo the Tracks Streamed.
 
-  ![Ss3](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/b9c50621-8ca7-4e52-96fa-9570c083a0ec)
+  ![SNAP 2](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/b9c50621-8ca7-4e52-96fa-9570c083a0ec)
 
 - Step 12 : A dedicated visual was created using the Power point as well showing the Streamers details about his/her streaming details, what was the song played and details regarding same.
+
+ ![SNAP 3](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/7cbbdb88-e66d-433a-bd8a-cbd53fc19ca0)
+
 - Step 13 : Some icons were also aded to make it even more visually understanding to the viewer.
 - Step 14 : In order to get the song cover displayed when clicked on aspecific Streamed Song .
       For this we created a measure combining DAX operation and some HTML coding with the help of Chat GPT.
@@ -113,7 +118,8 @@ In the era of streaming services like Spotify, understanding user preferences an
         </html>
         "
 
-  ![Ss1](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/31817a67-2649-4dae-9967-9d42e58becc4)
+  ![SNAP 4](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/31817a67-2649-4dae-9967-9d42e58becc4)
+  
 - Step 15 : Two Flash Cards were added to the canvas-
 
   (a)Average Streams per year - 514.5 M
@@ -132,11 +138,10 @@ In the era of streaming services like Spotify, understanding user preferences an
   (d) Artists
   
 - Step 18 : A new slicer was inserted to visualise songs on the basis of Tracks and no of times they streamed with their cover url with conditional formating of top 3 and Energy level.
+-   
+![SNAP 5](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/58ff33a1-0f51-4d94-920f-b51ea32df5f3)
 
-  
-![Ss2](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/58ff33a1-0f51-4d94-920f-b51ea32df5f3)
 - Step 19 : For the dashboard to match with overall scheme of spotify, changed the theme of the report by advance formating and chosing colours for the colout pallete of spotify logo.
 - Step 20 - Lastly clear all slicers button was added to canvas inside the refresh icon the top righ corner.
-- 
-
+  
 
