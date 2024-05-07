@@ -71,13 +71,13 @@ In the era of streaming services like Spotify, understanding user preferences an
       For this we created a measure combining DAX operation and some HTML coding with the help of Chat GPT.
 
 
-  Image html = 
-        Var x =
-        CALCULATE(
-            max('Spotify Dataset'[cover_url]),
-            'Spotify Dataset'[streams] = max('Spotify Dataset'[streams])
-            )
-         return
+   Image html = 
+         Var x =
+         CALCULATE(
+             max('Spotify Dataset'[cover_url]),
+             'Spotify Dataset'[streams] = max('Spotify Dataset'[streams])
+             )
+          return
         
         "
         <!DOCTYPE html>
