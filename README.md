@@ -107,6 +107,8 @@ In the era of streaming services like Spotify, understanding user preferences an
         </body>
         </html>
         "
+
+  ![Ss1](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/31817a67-2649-4dae-9967-9d42e58becc4)
 - Step 15 : Two Flash Cards were added to the canvas-
 
   (a)Average Streams per year - 514.5 M
