@@ -138,7 +138,7 @@ In the era of streaming services like Spotify, understanding user preferences an
   (d) Artists
   
 - Step 18 : A new slicer was inserted to visualise songs on the basis of Tracks and no of times they streamed with their cover url with conditional formating of top 3 and Energy level.
--   
+   
 ![SNAP 5](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/58ff33a1-0f51-4d94-920f-b51ea32df5f3)
 
 - Step 19 : For the dashboard to match with overall scheme of spotify, changed the theme of the report by advance formating and chosing colours for the colout pallete of spotify logo.
