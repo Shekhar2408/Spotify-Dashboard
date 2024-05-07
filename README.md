@@ -65,6 +65,9 @@ In the era of streaming services like Spotify, understanding user preferences an
 - Step 9 : The picture was imported to Power BI and placed as canvas background.
 - Step 10 : For data visualization stacked Bar chart was taken representing Number of streams for al the Tracks.
 - Step 11 : Line Chart was added to the canvas for depicting the Released Date fo the Tracks Streamed.
+
+  ![Ss3](https://github.com/Shekhar2408/Spotify-Dashboard/assets/167020556/b9c50621-8ca7-4e52-96fa-9570c083a0ec)
+
 - Step 12 : A dedicated visual was created using the Power point as well showing the Streamers details about his/her streaming details, what was the song played and details regarding same.
 - Step 13 : Some icons were also aded to make it even more visually understanding to the viewer.
 - Step 14 : In order to get the song cover displayed when clicked on aspecific Streamed Song .
